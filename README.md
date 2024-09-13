@@ -64,12 +64,6 @@ The names are filtered using the .filter() method, which checks if the name cont
 The results are then limited using the .slice() method to ensure only the specified number of results are returned.
 Callback: Once the filtered results are ready, the callback function is invoked, and the results are passed to it. In this case, the callback is displayResult, which simply logs the result to the console.
 
-## How to Run the Project
-Clone the repository or download the project files.
-Open the index.js file.
-Run the JavaScript code in your preferred browser or Node.js environment.
-Check the console for the output of the program.
-
 ## Task 3 : selection of program values
 
 This project includes a JavaScript function named `SeleksiNilai` that filters an array of numbers based on a given range. It validates the input parameters and ensures that the data meets certain conditions before performing the filtering process.
@@ -122,10 +116,9 @@ Sorting and Output:
 Once filtered, the matching numbers are sorted in ascending order, and the sorted array is logged to the console.
 
 ## How to Run the Program
-Clone the repository or download the source files.
-Open the index.js file.
-Run the JavaScript code in your preferred environment (browser or Node.js).
-Author
+1. Clone the repository or download the source files.
+2. Open the index.js file.
+3. Run the JavaScript code in your preferred environment (browser or Node.js).
 
 
 
